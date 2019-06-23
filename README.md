@@ -1,2 +1,2 @@
 # hello_world
-Learning git hub
+I am new on git hub and trying somthin new
